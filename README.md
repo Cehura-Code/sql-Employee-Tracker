@@ -1,5 +1,29 @@
 # sql-Employee-Tracker
 
+# <h1 align="center">SQL-Employee-Tracker</h1>
+Week-12 Challenge (SQL)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+
+*  [Description](#Description)
+          <a name="Screenshots"></a>
+
+*  [Screenshots](#Screenshots)
+          <a name="Screenshots"></a>
+   
+*  [Technologies-Used](#Technologies-Used)
+          <a name="Technologies Used"></a> 
+          
+*  [Installation](#Installation)
+          <a name="Installation"></a> 
+          
+*  [Usage-Information](#Usage-Information)
+          <a name="Usage-Information"></a> 
+          
+*  [License](#License)
+          <a name="License"></a>
 <h1>Description</h1>
 This application lets the users manage the roles, employees and departments in the company. The database is built with MySQL and interacts with JavaScript. 
 
