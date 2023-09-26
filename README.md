@@ -33,6 +33,8 @@ I have obtained the skills in database seeding when using mySQL and sequelize mo
 *recording of app functionality from local database link goes here 
 
 <h1>Screenshots</h1>
+(https://github.com/Cehura-Code/sql-Employee-Tracker/assets/134533516/85e09d4a-3bba-4b6a-a1b1-ef2bdcd7d379)
+
 
 <h1>Technologies Used</h1>
 
